@@ -1,2 +1,2 @@
 # pyth-data-sci-intro
-Code/notes from intro python data science course.
+Code/notes from an introductory python data science course.
